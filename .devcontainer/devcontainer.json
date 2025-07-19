@@ -1,0 +1,16 @@
+{
+  "name": "Java 21 + PostgreSQL Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "runArgs": [
+    "--network=host"
+  ],
+  "customizations": {
+    "jetbrains": {
+      "plugins": [
+        "com.intellij.database"
+      ]
+    }
+  }
+}

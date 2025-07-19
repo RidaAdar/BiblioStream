@@ -1,0 +1,20 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+
+# Python
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes (si local)
+db_data/
