@@ -16,5 +16,5 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Docker volumes (si local)
+# Docker volumes
 db_data/
