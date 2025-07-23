@@ -1,4 +1,4 @@
-#  Projet Microservices Bibliothèque – Documentation visuelle
+#  Projet Microservices Bibliothèque 
 
 ## Présentation
 
